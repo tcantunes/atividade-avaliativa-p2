@@ -21,3 +21,13 @@ OBS: crie um README.md com o propósito do trabalho, com a explicação dos trê
 ## Resolução
 
 ### O que é Polimorfismo?
+
+- É quando as classes derivadas de uma mesma superclasse são capazes de invocar os métodos que tem a mesma identificação mas comportam-se de maneira diferente para cada uma das classes derivadas.
+
+### O que é Herança?
+
+- Possibilita que as classes compartilhem seus atributos, métodos e outros membros da classe entre si.
+
+### O que é Encapsulamento?
+
+- Significa separar o programa em partes, o mais isolado possível. O Encapsulamento serve para controlar o acesso aos atributos e métodos de uma classe. É uma forma eficiente de proteger os dados manipulados dentro da classe, além de determinar onde esta classe poderá ser manipulada.
